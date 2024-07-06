@@ -1,7 +1,7 @@
 # [Silver I] 포도주 시식 - 2156 
 
 [문제 링크](https://www.acmicpc.net/problem/2156) 
-
+답지
 ### 성능 요약
 
 메모리: 2052 KB, 시간: 4 ms
